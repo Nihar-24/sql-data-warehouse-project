@@ -26,7 +26,7 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
+## Important Links & Tools:
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
