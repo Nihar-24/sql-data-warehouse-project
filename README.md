@@ -101,5 +101,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## About Me
 
 Hi there! I'm Nihar! I'm a recent college grad, working on upskilling my data skills through projects like these. 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
-[LinkedIn](www.linkedin.com/in/nihar-ranjan-goswami)
+Let's stay in touch! Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nihar-ranjan-goswami)
